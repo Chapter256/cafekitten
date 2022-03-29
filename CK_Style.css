@@ -1,0 +1,121 @@
+body {
+    font-family: sans-serif;
+    margin: 0;
+    text-align: center;
+    background-color: rgb(255, 244, 231);
+}
+
+header {
+    padding: 60px;
+    text-align: center;
+    background-color: darkslategray;
+    }
+    
+.h1-header {
+    color: bisque;
+    font-size: 65px;
+    font-weight: 700;
+    margin: 40px;
+}
+
+/*Menu bar info, unsure of color, play around
+.menu-bar {
+    background:;
+    color: ;
+}*/
+
+/* Style them links gurl!
+.menu-bar a {
+    float: center;
+    color: #865f8d;
+    text-align: center;
+    text-decoration: none;
+    font-size: 20px;
+}
+
+/*Wanna change the color of the links when ya hover?*/
+/* .menu-bar a:hover {
+    background: #ddd;
+    color: #3d1744; */
+/* } */
+/*Add a color to the active/current link so nobody gets lost!
+.menu-bar a.active {
+    background: ;
+    color: ;
+}
+
+Use this somewhere please! color: #927397*/
+
+
+/* index style code below  */
+.first-image {
+    width:90%;
+    height:90%;
+}
+
+.main-image {
+    width:100%;
+    height:100%;
+    }
+
+.indextablewrapper {
+    display: flex; 
+    flex-direction: column;
+    justify-content: center; 
+    align-items: center;
+} 
+
+
+/*Style for Menu section*/
+
+.ourmenu 
+{
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+.menu-text {
+    color: black;
+    font-size: 65px;
+    font-weight: 700;
+    margin: 40px;
+}
+
+/* Style for Our coffee section*/
+
+
+.ourcoffeetablewrapper {
+    display: flex; 
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+
+
+/*Style for Contact section*/
+
+.contacttablewrapper {
+    /* border: 10px solid red; */
+    display: flex; 
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+
+/* .table1wrapper {
+    border: 5px solid green;
+}
+.table2wrapper {
+    border: 5px solid blue;
+} */
+
+
+/* .contact-open {
+    float: left;
+}
+
+.contact-us {
+    float: right;
+  }  */
+
+  #your-question {
+    height: 70px;
+  }  
