@@ -1,9 +1,15 @@
+/*Use this somewhere please! color: #927397*/
+
+/*Body style below*/
+
 body {
     font-family: sans-serif;
     margin: 0;
     text-align: center;
     background-color: rgb(255, 244, 231);
 }
+
+/*Header style code below*/
 
 header {
     padding: 60px;
@@ -18,34 +24,6 @@ header {
     margin: 40px;
 }
 
-/*Menu bar info, unsure of color, play around
-.menu-bar {
-    background:;
-    color: ;
-}*/
-
-/* Style them links gurl!
-.menu-bar a {
-    float: center;
-    color: #865f8d;
-    text-align: center;
-    text-decoration: none;
-    font-size: 20px;
-}
-
-/*Wanna change the color of the links when ya hover?*/
-/* .menu-bar a:hover {
-    background: #ddd;
-    color: #3d1744; */
-/* } */
-/*Add a color to the active/current link so nobody gets lost!
-.menu-bar a.active {
-    background: ;
-    color: ;
-}
-
-Use this somewhere please! color: #927397*/
-
 
 /* index style code below  */
 .first-image {
@@ -54,25 +32,24 @@ Use this somewhere please! color: #927397*/
 }
 
 .main-image {
-    width:100%;
-    height:100%;
-    }
+    width:70%;
+    height:70%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
 
-.indextablewrapper {
-    display: flex; 
-    flex-direction: column;
-    justify-content: center; 
-    align-items: center;
-} 
-
+.aboutuscontent {
+    text-align: center;
+}
 
 /*Style for Menu section*/
 
-.ourmenu 
-{
+.ourmenu {
     margin-left: auto;
     margin-right: auto;
-  }
+}
 
 .menu-text {
     color: black;
@@ -86,9 +63,17 @@ Use this somewhere please! color: #927397*/
 
 .ourcoffeetablewrapper {
     display: flex; 
-    flex-direction: row;
+    justify-content: space-evenly;
+    border: 10px solid green;
+}
+
+
+.our2coffeetablewrapper {
+    border: 10px solid red;
+    display: flex; 
     justify-content: space-evenly;
 }
+
 
 
 /*Style for Contact section*/
