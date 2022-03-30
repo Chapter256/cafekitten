@@ -1,0 +1,141 @@
+/*Use this somewhere please! color: #927397*/
+
+/*Header style code below*/
+header {
+    padding: 60px;
+    text-align: center;
+    background-color: darkslategray;
+    }
+    
+.h1-header {
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    color: bisque;
+    font-size: 65px;
+    font-weight: 700;
+    margin: 40px;
+}
+
+/*Body content, style below*/
+body {
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    margin: 0;
+    text-align: center;
+    background-color: rgb(255, 244, 231);
+}
+
+.navbar {
+    font-size: x-large;
+}
+
+.navitem {
+    margin: 0.3%;
+}
+
+.aboutustext {
+    font-size: x-large;
+}
+
+/* index style code below  */
+.first-image {
+    width:90%;
+    height:90%;
+}
+
+.main-image {
+    width:70%;
+    height:70%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+.aboutuscontent {
+    text-align: center;
+}
+
+/*Style for Menu section*/
+
+.ourmenu {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.page-title-text {
+    color: black;
+    font-size: 55px;
+    font-weight: 700;
+    margin: 40px;
+}
+
+/* Style for Our coffee section*/
+
+/*Style for Contact section*/
+
+.contacttablewrapper {
+    display: flex; 
+    flex-direction: row;
+    justify-content: center;
+    align-items: top;
+    padding-bottom: 3%;
+}
+
+.table1wrapper {
+    /* border: 5px solid green; */
+    padding: 5%; 
+    /* padding-top: 2%; */
+}
+
+.labelwrapper {
+    display: flex; 
+    flex-direction: column;
+    justify-content: left;
+    text-align: left;
+    /* border: 5px solid blue;  */
+
+}
+
+/* .table2wrapper {
+    border: 5px solid red; 
+    padding: 3%; 
+    padding-top: 2%;
+} */
+
+.contactus {
+    font-size: xx-large;
+    padding-bottom: 0%;
+}
+
+.donthesitate {
+    margin-bottom: 3%;
+    font-weight: bold;
+}
+  
+  #name {
+    height: 20px;
+  }  
+
+  #email {
+    height: 20px;
+  }  
+
+  #your-message {
+    height: 90px;
+  }  
+
+  /* Style for footer*/
+  footer { 
+    display: block;
+    text-align: center;
+    padding: 3px;
+    background-color: rgb(248, 214, 202);
+    color: black;
+  }
+
+  ion-icon {
+    font-size: 64px;
+    color: #927397;
+    width: 16px;
+  }
