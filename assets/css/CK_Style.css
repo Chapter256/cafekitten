@@ -24,7 +24,7 @@ header {
     letter-spacing: 2px;
     display: inline-block;
     box-sizing: border-box;
-    background-color: rgb(255, 220, 176);
+    background-color: rgb(157, 100, 30);
 }
 
 .navitem {
@@ -93,7 +93,7 @@ body {
     display: flex; 
     flex-direction: row;
     justify-content: center;
-    align-items: space-evenly;
+    align-items: center;
     margin: 3%; 
 }
 
@@ -144,9 +144,10 @@ footer > p {
 
 /* Style all font awesome icons */
 .fa {
-    padding: 20px;
+    padding: 5px;
+    margin: 10px;
     font-size: 30px;
-    width: 50px;
+    width: 30px;
     text-align: center;
     text-decoration: none;
   }
