@@ -1,6 +1,4 @@
-/*Use this somewhere please! color: #927397*/
-
-/*Header style code below*/
+/*Style for header content*/
 header {
     padding: 60px;
     text-align: center;
@@ -17,7 +15,7 @@ header {
     margin: 40px;
 }
 
-/*Navigation bar, style below*/
+/*Style for navigation bar content*/
 
 .navbar {
     font-size: x-large;
@@ -39,7 +37,7 @@ header {
     margin: 0.3%;
 }
 
-/*Body content, style below*/
+/*Style for body content*/
 body {
     font-family:Georgia, 'Times New Roman', Times, serif;
     margin: 0;
@@ -64,8 +62,7 @@ body {
     text-align: center;
 }
 
-/*Style for Menu section*/
-
+/*Style for menu section*/
 .ourmenu {
     margin-left: auto;
     margin-right: auto;
@@ -78,7 +75,7 @@ body {
     margin: 40px;
 }
 
-/* Style for Our coffee section*/
+/* Style for our coffee section*/
 .our-coffee {
     font-size: xx-large;
     padding-bottom: 2%;
@@ -95,8 +92,7 @@ body {
     justify-content: left;
     text-align: left;
 }
-/*Style for Contact section*/
-
+/*Style for contact section*/
 .contacttablewrapper {
     display: flex; 
     flex-direction: row;
@@ -165,7 +161,6 @@ footer > p {
   }
   
   /* Set a specific color for each brand */
-  
 .fa-facebook {
     background: #3B5998;
     color: white;
