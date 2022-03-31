@@ -66,6 +66,11 @@ body {
 }
 
 /* Style for Our coffee section*/
+.our-coffee {
+    font-size: xx-large;
+    padding-bottom: 2%;
+}
+
 .coffee-tasting {
     margin: 0 auto; 
     width: 35%; 

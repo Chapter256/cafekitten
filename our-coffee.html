@@ -30,7 +30,7 @@
 
         <!-- OUR COFFEE PAGE CODE BELOW -->
 
-        <h1>Our Coffee</h1>
+        <h1 class="our-coffee">Our Coffee!</h1>
 
         <video width="700" height="500" controls>
             <source src="assets/videos/grindcoffee.mp4" type="video/mp4">
@@ -51,11 +51,11 @@
         <video width="700" height="500" controls>
             <source src="assets/videos/latteart.mp4" type="video/mp4">
         </video>
-
+        
                 <div>
                     <form>
                         <div class="coffee-tasting">
-                            <p>Sign up for our coffee tasting (cuppings) event!</p>
+                            <p>Sign up for our coffee tasting event!</p>
                             <label for="name">
                                 Name
                             </label>
@@ -64,10 +64,11 @@
                                 E-mail
                             </label>
                             <input type="email" id="email">
-                            <label for="your-message">
-                                Your Message
-                            </label>
-                            <input type="text" id="your-message">
+                            <label for="choose-a-day">Choose a day</label>
+                            <select id="day" name="day">
+                            <option value="saturday">Saturday, 09:00-12:00</option>
+                            <option value="sunday">Sunday, 09:00-12:00</option>
+                        </select>
                             <label for="submit-button">
                             </label>
                             <input type="button" id="submit-button" value="submit">
