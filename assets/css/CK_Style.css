@@ -27,6 +27,7 @@ body {
 
 .navbar {
     font-size: x-large;
+    letter-spacing: 2px;
 }
 
 .navitem {
@@ -35,12 +36,6 @@ body {
 
 .aboutustext {
     font-size: x-large;
-}
-
-/* index style code below  */
-.first-image {
-    width:90%;
-    height:90%;
 }
 
 .main-image {
