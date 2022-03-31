@@ -17,21 +17,24 @@ header {
     margin: 40px;
 }
 
+/*Navigation bar, style below*/
+
+.navbar {
+    font-size: x-large;
+    letter-spacing: 2px;
+    display: inline-block;
+}
+
+.navitem {
+    margin: 0.3%;
+}
+
 /*Body content, style below*/
 body {
     font-family:Georgia, 'Times New Roman', Times, serif;
     margin: 0;
     text-align: center;
     background-color: rgb(255, 244, 231);
-}
-
-.navbar {
-    font-size: x-large;
-    letter-spacing: 2px;
-}
-
-.navitem {
-    margin: 0.3%;
 }
 
 .aboutustext {
@@ -110,34 +113,59 @@ body {
     font-weight: bold;
 }
   
-  #name {
+#name {
     height: 20px;
-  }  
+}  
 
-  #email {
+#email {
     height: 20px;
-  }  
+}  
 
-  #your-message {
+#your-message {
     height: 90px;
-  }  
+}  
 
 
   /* Style for footer*/
-  footer {
+footer {
     background-color: rgb(249, 233, 228);
     padding: 3px;
     text-align: center;
     width: 100%;
     bottom: 0;
     right: 0;
-	z-index: 3;
-  }
+}
 
-    /* Style for icons in footer*/
-
-
-   /* Style for copyright text in footer*/
-  footer > p { 
+footer > p { 
     color: #8d6892;
+}
+
+/* Style all font awesome icons */
+.fa {
+    padding: 20px;
+    font-size: 30px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
   }
+
+.fa:hover {
+    opacity: 0.7;
+  }
+  
+  /* Set a specific color for each brand */
+  
+.fa-facebook {
+    background: #3B5998;
+    color: white;
+}
+  
+.fa-twitter {
+    background: #55ACEE;
+    color: white;
+}
+
+.fa-instagram {
+    background: #125688;
+    color: white;
+}
