@@ -23,6 +23,8 @@ header {
     font-size: x-large;
     letter-spacing: 2px;
     display: inline-block;
+    box-sizing: border-box;
+    background-color: rgb(255, 220, 176);
 }
 
 .navitem {
