@@ -119,17 +119,23 @@ body {
     height: 90px;
   }  
 
+
   /* Style for footer*/
-  footer { 
-    display: block;
-    text-align: center;
+  footer {
+    background-color: rgb(249, 233, 228);
     padding: 3px;
-    background-color: rgb(248, 214, 202);
-    color: black;
+    text-align: center;
+    width: 100%;
+    position: fixed; 
+    bottom: 0;
+    right: 0;
+	z-index: 3;
   }
 
-  ion-icon {
-    font-size: 64px;
-    color: #927397;
-    width: 16px;
+    /* Style for icons in footer*/
+
+
+      /* Style for copyright text in footer*/
+  footer > p { 
+    color: #8d6892;
   }
