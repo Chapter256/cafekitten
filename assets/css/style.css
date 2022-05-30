@@ -10,7 +10,7 @@ header {
     text-transform: uppercase;
     letter-spacing: 2px;
     color: bisque;
-    font-size: 65px;
+    font-size: xx-large;
     font-weight: 700;
     margin: 40px;
 }
@@ -23,8 +23,15 @@ body {
     background-color: rgb(255, 244, 231);
 }
 
-.aboutustext {
+.welcome-text {
+    font-size: xx-large;
+} 
+.about-us-title {
     font-size: x-large;
+}
+
+.aboutustext {
+    font-size: medium;
 }
 
 .main-image {
