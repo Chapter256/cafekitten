@@ -3,45 +3,45 @@ Cafe Kitten is a website that hopes to bring together coffee, tea and cafe lover
 
 ## Features
 
-## Existing Features
-###### Navigation Bar
+### Existing Features
+- __Navigation Bar__
+- A fully responsive navigation bar that uncludes links to Home, Menu, Our Coffee and Contact. 
+- It's identical on all four pages to ensure that navigating will be simple and that it will be easy to go from page to page.
 
-A fully responsive navigation bar that uncludes links to Home, Menu, Our Coffee and Contact. It's identical on all four pages to ensure that navigating will be simple and that it will be easy to go from page to page.
-
-###### Home page 
+- __Home page__ 
 
 The home page includes a photograph of the cafe and two of the baristas, instantly giving the customer a feel for the atmosphere at Cafe Kitten. 
 There is also some information about who Cafe Kitten are and what they want to offer for their customers. 
 Home Page
 
-###### Our Coffee page 
+- __Our Coffee page__ 
 
 In the Our Coffee page there is further information about what makes Cafe kitten extra special and different. What the values are within Cafe Kitten and what Cafe Kitten is hoping to give.
 
-###### Sign up form
+- __Sign up form__
 In the Our Coffee page a sign up form can also be found. One can choose to sign up for a coffee tasting at Cafe Kitten. The options are either Saturday or Sunday. 
 
-###### Menu page
+- __Menu page__
 This section shows the customers the current menu at Cafe Kiten, extractly what can be bought and at how big of a price. 
 
-###### The Footer
+- __The Footer__
 
 The footer section includes links to the relevant social media sites for Cafe Kitten. The links will open to a new tab to allow easy navigation for the user.
 The footer is valuable to the user as it encourages them to keep connected via social media
 Footer
 
-## Features Left to Implement
+### Features Left to Implement
 Could be fun to add a little shop section with check out of pick up. 
 
 ## Testing
 
-##  Validator Testing
+###  Validator Testing
 HTML
 No errors were returned when passing through the official W3C validator
 CSS
 No errors were found when passing through the official (Jigsaw) validator
 
-###### Unfixed Bugs
+### Unfixed Bugs
 For the menu images I first thought that an alt attribute would be enough but the more research I did the more I saw it wasn't. Especially since the meny has vital information. I couldn't fully understand how to make what I needed possible.
 
 ## Deployment
@@ -57,13 +57,14 @@ Code Institute provided a READ.me template as well that I have used
 USed tutorials from W3schools
 Flexbox, https://css-tricks.com/snippets/css/a-guide-to-flexbox/
 
-## Content
+### Content
 The text for the Our Coffee page was taken from [Espresso House](https://tomorrowfriendly.com/planet/coffee/) information page about sustainable coffee sourcing
 
 The form in our coffee are from [W3school](https://www.w3schools.com/howto/howto_css_contact_form.asp) 
 
 The icons in the footer and code are from [W3schools](https://www.w3schools.com/howto/tryit.asp?filename=tryhow_css_social_media_buttons) 
 
+### Media 
 The images and videos used for the home and our coffee page were taken from [Pexel](www.pexel.com)
 * [Home page image](https://www.pexels.com/photo/positive-women-working-in-cafeteria-in-daytime-6231611/)
 * [Video of coffee beans being grinded](https://www.pexels.com/video/ground-coffee-from-a-coffee-bean-grinder-machine-2849942/)
