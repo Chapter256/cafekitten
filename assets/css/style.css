@@ -23,7 +23,7 @@ body {
     background-color: rgb(255, 244, 231);
 }
 
-.welcome-text {
+.page-title-text {
     font-size: xx-large;
 } 
 .about-us-title {
@@ -78,19 +78,7 @@ li a:hover:not(.active) {
     margin-right: auto;
 }
 
-.page-title-text {
-    color: black;
-    font-size: 55px;
-    font-weight: 700;
-    margin: 40px;
-}
-
 /* Style for our coffee section*/
-.our-coffee {
-    font-size: xx-large;
-    padding-bottom: 2%;
-}
-
 .coffee-tasting {
     margin: 0 auto; 
     width: 35%; 
