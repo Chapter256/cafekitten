@@ -1,3 +1,20 @@
+/*Style for header content*/
+header {
+    padding: 40px;
+    text-align: center;
+    background-color: darkslategray;
+    }
+    
+.h1-header {
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    color: bisque;
+    font-size: 65px;
+    font-weight: 700;
+    margin: 40px;
+}
+
 /*Style for body content*/
 body {
     font-family:Georgia, 'Times New Roman', Times, serif;
@@ -21,23 +38,6 @@ body {
 
 .aboutuscontent {
     text-align: center;
-}
-
-/*Style for header content*/
-header {
-    padding: 40px;
-    text-align: center;
-    background-color: darkslategray;
-    }
-    
-.h1-header {
-    font-family:Georgia, 'Times New Roman', Times, serif;
-    text-transform: uppercase;
-    letter-spacing: 2px;
-    color: bisque;
-    font-size: 65px;
-    font-weight: 700;
-    margin: 40px;
 }
 
 /*Style for navigation bar content*/
@@ -95,6 +95,7 @@ li a:hover:not(.active) {
     justify-content: left;
     text-align: left;
 }
+
 /*Style for contact section*/
 .contacttablewrapper {
     display: flex; 
@@ -130,7 +131,6 @@ li a:hover:not(.active) {
     height: 90px;
 }  
 
-
   /* Style for footer*/
 footer {
     background-color: rgb(249, 233, 228);
@@ -158,13 +158,13 @@ footer > p {
 .fa:hover {
     opacity: 0.7;
   }
-  
+
   /* Set a specific color for each brand */
 .fa-facebook {
     background: #3B5998;
     color: white;
 }
-  
+
 .fa-twitter {
     background: #55ACEE;
     color: white;
@@ -174,4 +174,3 @@ footer > p {
     background: #125688;
     color: white;
 }
-
