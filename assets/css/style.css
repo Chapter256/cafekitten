@@ -25,7 +25,8 @@ body {
 
 .page-title-text {
     font-size: xx-large;
-} 
+}
+
 .about-us-title {
     font-size: x-large;
 }
@@ -111,7 +112,8 @@ li a:hover:not(.active) {
 }
 
  .tablewrapper {
-    padding: 5%; 
+    padding: 5%;
+    justify-items: normal;
 }
 
 .contactus {
