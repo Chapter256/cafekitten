@@ -78,6 +78,11 @@ li a:hover:not(.active) {
     margin-right: auto;
 }
 
+.menutablerow {
+    display: flex;
+    justify-content: center;
+}
+
 /* Style for our coffee section*/
 .coffee-tasting {
     margin: 0 auto; 
