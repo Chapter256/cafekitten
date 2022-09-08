@@ -22,9 +22,6 @@ In the Our Coffee page there is further information about what makes Cafe kitten
 - __Sign up form__
 In the Our Coffee page a sign up form can also be found. One can choose to sign up for a coffee tasting at Cafe Kitten. The options are either Saturday or Sunday. 
 
-- __Menu page__
-This section shows the customers the current menu at Cafe Kiten, extractly what can be bought and at how big of a price. 
-
 - __The Footer__
 
 The footer section includes links to the relevant social media sites for Cafe Kitten. The links will open to a new tab to allow easy navigation for the user.
