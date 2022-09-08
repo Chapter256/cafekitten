@@ -74,15 +74,7 @@ li a:hover:not(.active) {
 }
 
 /*Style for menu section*/
-.ourmenu {
-    margin-left: auto;
-    margin-right: auto;
-}
 
-.menutablerow {
-    display: flex;
-    justify-content: center;
-}
 
 /* Style for our coffee section*/
 .coffee-tasting {
