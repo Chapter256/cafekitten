@@ -2,6 +2,8 @@
 
 Cafe Kitten is a website that hopes to bring together coffee, tea and cafe lovers. Cafe Kitten is targeted towards people who love coffee, tea, lovely atmosphere and potential new taste matches.
 
+![Image showing how the website looks on different devices](docs/images/am-i-responsive.png)
+
 ## Features
 
 ### Existing Features
