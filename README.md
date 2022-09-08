@@ -31,7 +31,7 @@ The footer is valuable to the user as it encourages them to keep connected via s
 Footer
 
 ### Features Left to Implement
-Could be fun to add a little shop section with check out of pick up. 
+Could be fun to add a little shop section with check out for pick up. 
 
 ## Testing
 
