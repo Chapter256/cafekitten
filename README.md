@@ -21,6 +21,12 @@ Cafe Kitten is a website that hopes to bring together coffee, tea and cafe lover
   - Used
   ![#]()
 
+#### Wireframe
+![Desktop wireframe for index page](https://github.com/Chapter256/cafekitten/blob/main/docs/images/wireframe-index.jpeg)
+![Desktop wireframe for our coffee page](https://github.com/Chapter256/cafekitten/blob/main/docs/images/wireframe-our-coffee.jpeg)
+![Desktop wireframe for menu page](https://github.com/Chapter256/cafekitten/blob/main/docs/images/wireframe-menu.jpeg)
+![Desktop wireframe for contact page](https://github.com/Chapter256/cafekitten/blob/main/docs/images/wireframe-contact-us.jpeg)
+
 ## Features
 
 ### Existing Features
