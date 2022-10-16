@@ -7,6 +7,20 @@ The live website can be viewed [here](https://chapter256.github.io/cafekitten/).
 ## Introduction
 Cafe Kitten is a website that hopes to bring together coffee, tea and cafe lovers. Cafe Kitten is targeted towards people who love coffee, tea, lovely atmosphere and potential new taste matches.
 
+## User Experience (UX)
+
+- ### User Stories 
+  1. As a user, I want to 
+  2. As a user, I want to 
+  3. As a user, I want to 
+
+- ### Design
+  - #### Colour scheme 
+  - Used 
+  ![#]()
+  - Used
+  ![#]()
+
 ## Features
 
 ### Existing Features
