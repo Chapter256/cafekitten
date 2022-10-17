@@ -10,9 +10,10 @@ The goal of this website is to use HTML and CSS to createa an info page for the 
 ## User Experience (UX)
 
 - ### User Stories 
-  1. As a user, I want to 
-  2. As a user, I want to 
-  3. As a user, I want to 
+  1. As a user, I want to be able to find information about Cafe kitten. 
+  2. As a user, I want to find out more about what makes Cafe Kitten different.
+  3. As a user, I want to be able to sign up for tasting events. 
+  4. As a user, I want to be able to find contact information to Cafe Kitten. 
 
 - ### Design
   - #### Colour scheme 
