@@ -86,6 +86,15 @@ li a:hover:not(.active) {
     text-align: left;
 }
 
+/* Style for menu section*/
+.drinkstablewrapper {
+    display: flex; 
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    margin: 3%; 
+}
+
 /*Style for contact section*/
 .contacttablewrapper {
     display: flex; 
