@@ -1,6 +1,6 @@
 # cafekitten
 
-The live website can be viewed [here](https://chapter256.github.io/cafekitten/).
+The live website can be viewed [here](assets/design/responsivness-image.png).
 
 ![responsive image](docs/images/am-i-responsive.png)
 
