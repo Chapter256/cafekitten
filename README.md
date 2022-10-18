@@ -57,6 +57,11 @@ CSS
 No errors were found when passing through the official (Jigsaw) validator
 
 ### Lighthouse
+- Website was tested using Lighthouse, each page was tested separately 
+![Lighthouse results for home page](assets/screenshots/lighthouse-home-page.jpeg)
+![Lighthouse results for our coffee page](assets/screenshots/lighthouse-our-coffee-page.jpeg)
+![Lighthouse results for menu page](assets/screenshots/lighthouse-menu-page.jpeg)
+![Lighthouse results for contact us page](assets/screenshots/lighthouse-contact-us-page.jpeg)
 
 ### Devices
 
