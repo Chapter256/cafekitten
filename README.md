@@ -35,11 +35,10 @@ Cafe Kitten is a website that hopes to bring together coffee, tea and cafe lover
 There is also some information about who Cafe Kitten are and what they want to offer for their customers. 
 
 ### Our Coffee page
+* In the Our Coffee page there is further information about what makes Cafe kitten extra special and different. What the values are within Cafe Kitten and what Cafe Kitten is hoping to give.
+* Sign up form, one can choose to sign up for a coffee tasting at Cafe Kitten. The options are either Saturday or Sunday. 
+![Sign up form](assets/screenshots/sign-up-form.png)
 
-In the Our Coffee page there is further information about what makes Cafe kitten extra special and different. What the values are within Cafe Kitten and what Cafe Kitten is hoping to give.
-
-### Sign up form
-In the Our Coffee page a sign up form can also be found. One can choose to sign up for a coffee tasting at Cafe Kitten. The options are either Saturday or Sunday. 
 
 ### The Footer
 ![The Footer](assets/screenshots/footer.png)
