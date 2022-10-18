@@ -31,8 +31,7 @@ Cafe Kitten is a website that hopes to bring together coffee, tea and cafe lover
 * It's identical on all four pages to ensure that navigating will be simple and that it will be easy to go from page to page.
 
 ### Home page
-
-The home page includes a photograph of the cafe and two of the baristas, instantly giving the customer a feel for the atmosphere at Cafe Kitten. 
+* The home page includes a photograph of the cafe and two of the baristas, instantly giving the customer a feel for the atmosphere at Cafe Kitten. 
 There is also some information about who Cafe Kitten are and what they want to offer for their customers. 
 
 ### Our Coffee page
@@ -43,8 +42,8 @@ In the Our Coffee page there is further information about what makes Cafe kitten
 In the Our Coffee page a sign up form can also be found. One can choose to sign up for a coffee tasting at Cafe Kitten. The options are either Saturday or Sunday. 
 
 ### The Footer
-The footer section includes links to the relevant social media sites for Cafe Kitten. The links will open to a new tab to allow easy navigation for the user.
-The footer is valuable to the user as it encourages them to keep connected via social media
+![The Footer](assets/screenshots/footer.png)
+* The footer section includes links to the relevant social media sites for Cafe Kitten. The links will open to a new tab to allow easy navigation for the user. The footer is valuable to the user as it encourages them to keep connected via social media
 
 ### Future features
 Could be fun to add a little shop section with check out for pick up. 
