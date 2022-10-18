@@ -121,4 +121,3 @@ I used the W3C Validator and W3C CSS Validator to validate my website.
 The images and videos used for the home and our coffee page were taken from [Pexel](www.pexel.com)
 - [Home page image](https://www.pexels.com/photo/positive-women-working-in-cafeteria-in-daytime-6231611/)
 - [Video of coffee beans being grinded](https://www.pexels.com/video/ground-coffee-from-a-coffee-bean-grinder-machine-2849942/)
-- [Latte art video](https://www.pexels.com/video/a-person-making-a-latte-art-4932604/)
