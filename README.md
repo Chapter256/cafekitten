@@ -56,17 +56,17 @@ I used the W3C Validator and W3C CSS Validator to validate my website.
 ![CSS test for home page](assets/screenshots/css-validator-home.png)
 ![HTML test for home page](assets/screenshots/html-validator-home.png)
 
-- Our Coffee page
-![HTML test for our coffee page](assets/screenshots/html-validator-our-coffee.png)
+* Our Coffee page
 ![CSS test for our coffee page](assets/screenshots/css-validator-our-coffee.png)
+![HTML test for our coffee page](assets/screenshots/html-validator-our-coffee.png)
 
-- Menu page
-![HTML test for menu page](assets/screenshots/html-validator-menu.png)
+* Menu page
 ![CSS test for menu page](assets/screenshots/css-validator-menu.png)
+![HTML test for menu page](assets/screenshots/html-validator-menu.png)
 
-- Contact Us page
-![HTML test for contact us page](assets/screenshots/html-validator-contact-us.png)
+* Contact Us page
 ![CSS test for contact us  page](assets/screenshots/css-validator-contact-us.png)
+![HTML test for contact us page](assets/screenshots/html-validator-contact-us.png)
 
 ### Lighthouse
 - Website was tested using Lighthouse, each page was tested separately 
