@@ -45,8 +45,8 @@ In the Our Coffee page a sign up form can also be found. One can choose to sign 
 ![The Footer](assets/screenshots/footer.png)
 * The footer section includes links to the relevant social media sites for Cafe Kitten. The links will open to a new tab to allow easy navigation for the user. The footer is valuable to the user as it encourages them to keep connected via social media
 
-### Future features
-Could be fun to add a little shop section with check out for pick up. 
+### Future Features
+* Shop section with checkout for pick up.
 
 ## Technologies Used 
 
