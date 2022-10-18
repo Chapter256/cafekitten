@@ -11,10 +11,9 @@ The goal of this website is to use HTML and CSS to createa an info page for the 
 
 - ### User Stories 
   1. As a user, I want to be able to find information about Cafe kitten. 
-  2. As a user, I want to find out more about what makes Cafe Kitten different.
-  3. As a user, I want to be able to sign up for tasting events. 
-  4. As a user, I want to be able to see the menu and what items are offered. 
-  5. As a user, I want to be able to find contact information to Cafe Kitten.
+  2. As a user, I want to be able to sign up for tasting events. 
+  3. As a user, I want to be able to see the menu and what items are offered. 
+  4. As a user, I want to be able to find contact information to Cafe Kitten.
 
 #### Wireframe
 ![Desktop wireframe for index page](assets/wireframes/wireframe-index.jpeg)
