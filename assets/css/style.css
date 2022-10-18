@@ -95,7 +95,12 @@ li a:hover:not(.active) {
     margin: 3%; 
 }
 
-/*Style for contact section*/
+table {
+    border: 1px solid;
+    border-spacing: 10px;
+  }
+
+  /*Style for contact section*/
 .contacttablewrapper {
     display: flex; 
     flex-direction: row;
