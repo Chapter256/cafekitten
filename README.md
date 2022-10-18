@@ -16,13 +16,6 @@ The goal of this website is to use HTML and CSS to createa an info page for the 
   4. As a user, I want to be able to see the menu and what items are offered. 
   5. As a user, I want to be able to find contact information to Cafe Kitten.
 
-- ### Design
-  - #### Colour scheme 
-  - Used 
-  ![#]()
-  - Used
-  ![#]()
-
 #### Wireframe
 ![Desktop wireframe for index page](https://github.com/Chapter256/cafekitten/blob/main/docs/images/wireframe-index.jpeg)
 ![Desktop wireframe for our coffee page](https://github.com/Chapter256/cafekitten/blob/main/docs/images/wireframe-our-coffee.jpeg)
