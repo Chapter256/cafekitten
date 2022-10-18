@@ -53,7 +53,8 @@ There is also some information about who Cafe Kitten are and what they want to o
 I used the W3C Validator and W3C CSS Validator to validate my website.
 ![HTML test for home page](assets/screenshots/html-validator-home.png)
 ![CSS test for home page](assets/screenshots/css-validator-home.png)
-
+![HTML test for our coffee page](assets/screenshots/html-validator-our-coffee.png)
+![CSS test for our coffee page](assets/screenshots/css-validator-our-coffee.png)
 ![HTML test for menu page](assets/screenshots/html-validator-menu.png)
 ![CSS test for menu page](assets/screenshots/css-validator-menu.png)
 ![HTML test for contact us page](assets/screenshots/html-validator-contact-us.png)
