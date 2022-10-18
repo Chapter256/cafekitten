@@ -26,8 +26,9 @@ The goal of this website is to use HTML and CSS to createa an info page for the 
 Cafe Kitten is a website that hopes to bring together coffee, tea and cafe lovers. Cafe Kitten is targeted towards people who love coffee, tea, lovely atmosphere and potential new taste matches.
 
 ### Navigation Bar
-- A fully responsive navigation bar that uncludes links to Home, Menu, Our Coffee and Contact. 
-- It's identical on all four pages to ensure that navigating will be simple and that it will be easy to go from page to page.
+![The Footer](assets/screenshots/navigation-bar.png)
+* A fully responsive navigation bar that uncludes links to Home, Menu, Our Coffee and Contact. 
+* It's identical on all four pages to ensure that navigating will be simple and that it will be easy to go from page to page.
 
 ### Home page
 
