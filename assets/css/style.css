@@ -86,6 +86,11 @@ li a:hover:not(.active) {
     text-align: left;
 }
 
+video {
+    height: auto; 
+    width: 100%;
+}
+
 /* Style for menu section*/
 .drinkstablewrapper {
     display: flex; 
