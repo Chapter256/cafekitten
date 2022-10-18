@@ -114,9 +114,7 @@ I used the W3C Validator and W3C CSS Validator to validate my website.
 
 ### Content
 - The text for the Our Coffee page was taken from [Espresso House](https://tomorrowfriendly.com/planet/coffee/) information page about sustainable coffee sourcing
-
 - The form in our coffee are from [W3school](https://www.w3schools.com/howto/howto_css_contact_form.asp) 
-
 - The icons in the footer and code are from [W3schools](https://www.w3schools.com/howto/tryit.asp?filename=tryhow_css_social_media_buttons) 
 
 ### Media 
