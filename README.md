@@ -89,6 +89,14 @@ I used the W3C Validator and W3C CSS Validator to validate my website.
 - The website was tested on my iMac and Macbook pro. 
 
 ### Testing User Stories 
+  1. As a user, I want to be able to find information about Cafe kitten.
+    - There is information about Cafe Kitten in the home/landing page as well as in the "Our Coffee" page. 
+  2. As a user, I want to be able to sign up for tasting events. 
+    - The user can sign up for tasting events through the "Our Coffee" page. 
+  3. As a user, I want to be able to see the menu and what items are offered.
+    - On the menu page the user will find a drink and pastry menu. The price of each item is also listed. 
+  4. As a user, I want to be able to find contact information to Cafe Kitten.
+    - Under the "Contact us" page the user will find information of how to contact the cafe, as well as where the cafe is located and when it's open/closed.
 
 ## Deployment
 
