@@ -25,42 +25,42 @@ The goal of this website is to use HTML and CSS to createa an info page for the 
 ## Features
 Cafe Kitten is a website that hopes to bring together coffee, tea and cafe lovers. Cafe Kitten is targeted towards people who love coffee, tea, lovely atmosphere and potential new taste matches.
 
-### Existing Features
-- __Navigation Bar__
+### Navigation Bar
 - A fully responsive navigation bar that uncludes links to Home, Menu, Our Coffee and Contact. 
 - It's identical on all four pages to ensure that navigating will be simple and that it will be easy to go from page to page.
 
-- __Home page__ 
+### Home page
 
 The home page includes a photograph of the cafe and two of the baristas, instantly giving the customer a feel for the atmosphere at Cafe Kitten. 
 There is also some information about who Cafe Kitten are and what they want to offer for their customers. 
-Home Page
 
-- __Our Coffee page__ 
+### Our Coffee page
 
 In the Our Coffee page there is further information about what makes Cafe kitten extra special and different. What the values are within Cafe Kitten and what Cafe Kitten is hoping to give.
 
-- __Sign up form__
+### Sign up form
 In the Our Coffee page a sign up form can also be found. One can choose to sign up for a coffee tasting at Cafe Kitten. The options are either Saturday or Sunday. 
 
-- __The Footer__
-
+### The Footer
 The footer section includes links to the relevant social media sites for Cafe Kitten. The links will open to a new tab to allow easy navigation for the user.
 The footer is valuable to the user as it encourages them to keep connected via social media
-Footer
 
-### Features Left to Implement
+### Future features
 Could be fun to add a little shop section with check out for pick up. 
 
-## Testing
+## Technologies Used 
 
-###  Validator Testing
+## Testing and Validation
 HTML
 No errors were returned when passing through the official W3C validator
 CSS
 No errors were found when passing through the official (Jigsaw) validator
 
-### Unfixed Bugs
+### Lighthouse
+
+### Devices
+
+### Testing User Stories 
 
 ## Deployment
 
