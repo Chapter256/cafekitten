@@ -1,6 +1,6 @@
 # cafekitten
 
-The live website can be viewed [here](assets/design/responsivness-image.png).
+The live website can be viewed [here](assets/design/responsivness-image.png)
 
 ![responsive image](docs/images/am-i-responsive.png)
 
