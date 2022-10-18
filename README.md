@@ -48,6 +48,16 @@ There is also some information about who Cafe Kitten are and what they want to o
 * Shop section with checkout for pick up.
 
 ## Technologies Used 
+### Languages 
+- HTML was used to create the content of the website
+- CSS was used to style the website 
+### Programmes used
+- Balsamiq was used to create the wireframe. 
+- Gitpod was used as an editior to write and run the code. 
+- Github was used as a software hosting platform to keep the project in a remote location.
+- Chrome developer tools was used for troubleshooting and checking compability. 
+- Am I responsive was used to test if the website was responsive on different screen sizes.
+
 
 ## Testing and Validation
 I used the W3C Validator and W3C CSS Validator to validate my website.
@@ -76,6 +86,8 @@ I used the W3C Validator and W3C CSS Validator to validate my website.
 ![Lighthouse results for contact us page](assets/screenshots/lighthouse-contact-us-page.jpeg)
 
 ### Devices
+- Website was tested using Chrome and Safari.
+- The website was tested on my iMac and Macbook pro. 
 
 ### Testing User Stories 
 
