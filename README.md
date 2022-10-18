@@ -5,7 +5,7 @@ The live website can be viewed [here](https://chapter256.github.io/cafekitten/).
 ![responsive image](assets/design/responsivness-image.png)
 
 ## Introduction
-The goal of this website is to use HTML and CSS to createa an info page for the user. 
+The goal of this website is to use HTML and CSS to create an info page for a Cafe that will be used by a user to gather information. 
 
 ## User Experience (UX)
 
@@ -22,16 +22,16 @@ The goal of this website is to use HTML and CSS to createa an info page for the 
 ![Desktop wireframe for contact page](assets/wireframes/wireframe-contact-us.jpeg)
 
 ## Features
-Cafe Kitten is a website that hopes to bring together coffee, tea and cafe lovers. Cafe Kitten is targeted towards people who love coffee, tea, lovely atmosphere and potential new taste matches.
+Cafe Kitten is a website that hopes to bring together coffee and cafe lovers. Cafe Kitten is targeted towards people who love coffee and a lovely atmosphere. 
 
 ### Navigation Bar
 ![The Footer](assets/screenshots/navigation-bar.png)
-* A fully responsive navigation bar that uncludes links to Home, Menu, Our Coffee and Contact. 
+* A fully responsive navigation bar that includes links to Home, Our Coffee, Menu and Contact. 
 * It's identical on all four pages to ensure that navigating will be simple and that it will be easy to go from page to page.
 
 ### Home page
 * The home page includes a photograph of the cafe and two of the baristas, instantly giving the customer a feel for the atmosphere at Cafe Kitten. 
-There is also some information about who Cafe Kitten are and what they want to offer for their customers. 
+* There is also some information about who Cafe Kitten are and what they want to offer for their customers. 
 
 ### Our Coffee page
 * In the Our Coffee page there is further information about what makes Cafe kitten extra special and different. What the values are within Cafe Kitten and what Cafe Kitten is hoping to give.
