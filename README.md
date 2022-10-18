@@ -107,10 +107,10 @@ I used the W3C Validator and W3C CSS Validator to validate my website.
 4. Once the main branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment.
 
 ## Credits
-- I took overall help from the Love Running project from Code Institute 
+ I took overall help from the Love Running project from Code Institute 
 - Code Institute provided a READ.me template as well that I have used 
 - I used tutorials from W3schools
-- Flexbox, https://css-tricks.com/snippets/css/a-guide-to-flexbox/
+- [Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 
 ### Content
 - The text for the Our Coffee page was taken from [Espresso House](https://tomorrowfriendly.com/planet/coffee/) information page about sustainable coffee sourcing
