@@ -50,10 +50,9 @@ There is also some information about who Cafe Kitten are and what they want to o
 ## Technologies Used 
 
 ## Testing and Validation
-HTML
-No errors were returned when passing through the official W3C validator
-CSS
-No errors were found when passing through the official (Jigsaw) validator
+I used the W3C Validator and W3C CSS Validator to validate my website.
+![HTML test for home page](assets/screenshots/html-validator-home.png)
+![CSS test for home page](assets/screenshots/css-validator-home.png)
 
 ### Lighthouse
 - Website was tested using Lighthouse, each page was tested separately 
