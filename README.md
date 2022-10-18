@@ -17,10 +17,10 @@ The goal of this website is to use HTML and CSS to createa an info page for the 
   5. As a user, I want to be able to find contact information to Cafe Kitten.
 
 #### Wireframe
-![Desktop wireframe for index page](https://github.com/Chapter256/cafekitten/blob/main/docs/images/wireframe-index.jpeg)
-![Desktop wireframe for our coffee page](https://github.com/Chapter256/cafekitten/blob/main/docs/images/wireframe-our-coffee.jpeg)
-![Desktop wireframe for menu page](https://github.com/Chapter256/cafekitten/blob/main/docs/images/wireframe-menu.jpeg)
-![Desktop wireframe for contact page](https://github.com/Chapter256/cafekitten/blob/main/docs/images/wireframe-contact-us.jpeg)
+![Desktop wireframe for index page](assets/wireframes/wireframe-index.jpeg)
+![Desktop wireframe for our coffee page](assets/wireframes/wireframe-our-coffee.jpeg)
+![Desktop wireframe for menu page](assets/wireframes/wireframe-menu.jpeg)
+![Desktop wireframe for contact page](assets/wireframes/wireframe-contact-us.jpeg)
 
 ## Features
 Cafe Kitten is a website that hopes to bring together coffee, tea and cafe lovers. Cafe Kitten is targeted towards people who love coffee, tea, lovely atmosphere and potential new taste matches.
