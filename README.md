@@ -54,6 +54,9 @@ I used the W3C Validator and W3C CSS Validator to validate my website.
 ![HTML test for home page](assets/screenshots/html-validator-home.png)
 ![CSS test for home page](assets/screenshots/css-validator-home.png)
 
+![HTML test for menu page](assets/screenshots/html-validator-menu.png)
+![CSS test for menu page](assets/screenshots/css-validator-menu.png)
+
 ### Lighthouse
 - Website was tested using Lighthouse, each page was tested separately 
 ![Lighthouse results for home page](assets/screenshots/lighthouse-home-page.jpeg)
