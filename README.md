@@ -64,12 +64,11 @@ No errors were found when passing through the official (Jigsaw) validator
 
 ## Deployment
 
-The site was deployed to GitHub pages. The steps to deploy are as follows:
-
-- Log onto your GitHub and locate the GitHub repositor.
-- Navigate to the Settings, navigate to the left to the Pages 
-- From the source section drop-down menu, select the main branch
-- Once the main branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment.
+- The site was deployed to GitHub pages. The steps to deploy are as follows:
+1. Log onto your GitHub and locate the GitHub repositor.
+2. Navigate to the Settings, navigate to the left to the Pages 
+3. From the source section drop-down menu, select the main branch
+4. Once the main branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment.
 
 ## Credits
 - I took overall help from the Love Running project from Code Institute 
