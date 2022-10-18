@@ -2,7 +2,7 @@
 
 The live website can be viewed [here](https://chapter256.github.io/cafekitten/).
 
-![responsive image]()
+![responsive image](docs/images/am-i-responsive.png)
 
 ## Introduction
 The goal of this website is to use HTML and CSS to createa an info page for the user. 
